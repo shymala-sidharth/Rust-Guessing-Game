@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Guess the number!");
+
+    print!("Please input your guess.")
 }
