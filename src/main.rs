@@ -10,7 +10,7 @@ fn main() {
 
     io::stdin().read_line(&mut guess).expect("Failed to read line");
 
-    print!("You guessed: {guess}")
+    print!("You Guessed: {guess}")
 
     
 }
